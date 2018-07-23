@@ -1,5 +1,5 @@
 
-# -JXL-
+# JXL-StuSystem
 
 _利用JXL根据Excel对学生信息进行管理（--java随手练）_
 ***
